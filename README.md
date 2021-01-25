@@ -6,7 +6,11 @@ Our final notebooks can be found under the project folder. The don't do this fol
 
 In order to use this code in a kaggle notebook the appropriate datasets must be imported:
 https://www.kaggle.com/dimitreoliveira/efficientnet-git - To use the efn model
+
 https://www.kaggle.com/dimitreoliveira/kerasapplications - pretrained models and weights
+
 https://www.kaggle.com/itsuki9180/cassava-recreate-stratificated-tfrecords - stratified dataset 
+
 https://www.kaggle.com/dimitreoliveira/cassava-leaf-disease-tfrecords-512x512 - cleaned tfrecords
+
 https://www.kaggle.com/dimitreoliveira/cassava-leaf-disease-tfrecords-center-512x512 - cleaned tfrecords, centre cropped
